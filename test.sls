@@ -1,3 +1,3 @@
 good_pillar: True
 
-what_branch: master
+what_branch: dev
